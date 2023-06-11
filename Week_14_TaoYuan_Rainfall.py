@@ -10,8 +10,6 @@
 # In[ ]:
 
 
-get_ipython().system('pip install -U plotnine mizani numerize pandas')
-get_ipython().system('pip install -U numpy')
 
 
 # In[19]:
