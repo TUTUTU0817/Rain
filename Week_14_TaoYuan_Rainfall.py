@@ -24,14 +24,14 @@ import matplotlib.pyplot as plt
 from mizani.formatters import date_format
 from numerize import numerize
 
-get_ipython().run_line_magic('matplotlib', 'inline')
+#get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # In[2]:
 
 
 # load data in code page 950
-file="data/ObsRain_桃園市.csv"
+file="ObsRain_臺北市.csv"
 data = pd.read_csv(file, encoding="cp950")
 
 
