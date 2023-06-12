@@ -1,3 +1,5 @@
 plotnine
 seaborn
 numerize
+matplotlib
+inline
